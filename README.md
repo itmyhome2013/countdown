@@ -26,4 +26,4 @@ function countdown() {
 }
 ```
 
-演示地址 [点击](http://itmyhome.com/countdown/)  <a href="http://www.baidu.com" target="_blank">百度</a>
+演示地址: <a href="http://itmyhome.com/countdown/" target="_blank">点击</a>
