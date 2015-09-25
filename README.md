@@ -2,7 +2,8 @@ JS实现倒计时
 ============
 
 ```html
-<input type="text" class="form-control" style="width: 200px;" id="idCard" placeholder="输入校验码">
+<input type="text" class="form-control" style="width: 200px;" 
+	   id="idCard" placeholder="输入校验码">
 <button id="code" class="btn btn-default" onclick="getCode();">获取校验码</button>
 ```
 
@@ -25,4 +26,4 @@ function countdown() {
 }
 ```
 
-演示地址 [点击](http://itmyhome.com/countdown/)
+演示地址 [点击](http://itmyhome.com/countdown/)  <a href="http://www.baidu.com" target="_blank">百度</a>
